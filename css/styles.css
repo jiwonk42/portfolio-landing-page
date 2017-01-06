@@ -12,6 +12,7 @@
 
 body {
   background-color: gray;
+  height: 2000px;
 }
 
 .container {
@@ -46,8 +47,27 @@ img {
 .my-projects {
   background-color: orange;
   margin-bottom: 80px;
+
 }
 
-.col-xs-4 {
+.row {
+  padding: 0 20px;
+  width: 100%;
   margin: 0 auto;
+}
+
+.row-1 {
+  background-color: pink;
+}
+
+.row-2 {
+  background-color: green;
+}
+
+div.col-xs-4 p {
+  height: 100%;
+}
+
+.col-xs-4 h3, .col-xs-4 p {
+  text-align: center;
 }
