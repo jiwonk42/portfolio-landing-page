@@ -5,15 +5,26 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  width: 100px;
+  width: 100%;
 
 
 }*/
 
-.container-full {
+body {
+  background-color: gray;
+}
 
+.container {
+  width: 80%;
+  background-color: white;
 }
 
 .header {
+  height: 80px;
+
+}
+
+h1.display-1 {
   background-color: pink;
+  font-size: 65px;
 }
