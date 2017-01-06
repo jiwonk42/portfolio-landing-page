@@ -40,6 +40,8 @@ h1 {
   background-color: yellow;
   width: 70%;
   float: left;
+  padding: 20px 0px 0px 25px;
+  font-size: 29px;
 }
 
 .my-background {
