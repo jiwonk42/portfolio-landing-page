@@ -1,23 +1,15 @@
-/*body {
-
+body {
   background: url(../img/sunshine.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  width: 100%;
-
-
-}*/
-
-body {
-  background-color: gray;
+  width: 1500px;
 }
 
 .container {
   width: 80%;
-  background-color: white;
-  font-size: 17px;
+  font-size: 19px;
 }
 
 .header {
@@ -26,18 +18,16 @@ body {
 }
 
 h1 {
-  background-color: pink;
   font-size: 65px;
 }
 
 .my-photo {
-  background-color: skyblue;
   width: 30%;
   float: left;
+  padding-left: 20px;
 }
 
 .summary {
-  background-color: yellow;
   width: 70%;
   float: left;
   padding: 20px 0px 0px 25px;
@@ -50,27 +40,13 @@ h1 {
 }
 
 .my-projects {
-  background-color: orange;
   margin-bottom: 80px;
-
 }
 
 .row {
   padding: 0 20px;
   width: 100%;
   margin: 0 auto;
-}
-
-.row-1 {
-  background-color: pink;
-}
-
-.row-2 {
-  background-color: green;
-}
-
-div.col-xs-4 p {
-  height: 100%;
 }
 
 .col-xs-4 h3, .col-xs-4 p {
