@@ -17,19 +17,37 @@ body {
 .container {
   width: 80%;
   background-color: white;
+  font-size: 17px;
 }
 
 .header {
-  height: 80px;
+  height: 70px;
 
 }
 
-h1.display-1 {
+h1 {
   background-color: pink;
   font-size: 65px;
+}
+
+.my-photo {
+  background-color: skyblue;
 }
 
 img {
   width: 30%;
   height: 30%;
+}
+
+.summary {
+  background-color: yellow;
+}
+
+.my-projects {
+  background-color: orange;
+  margin-bottom: 80px;
+}
+
+.col-xs-4 {
+  margin: 0 auto;
 }
