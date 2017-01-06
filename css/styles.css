@@ -28,3 +28,8 @@ h1.display-1 {
   background-color: pink;
   font-size: 65px;
 }
+
+img {
+  width: 30%;
+  height: 30%;
+}
