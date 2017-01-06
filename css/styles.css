@@ -32,15 +32,19 @@ h1 {
 
 .my-photo {
   background-color: skyblue;
-}
-
-img {
   width: 30%;
-  height: 30%;
+  float: left;
 }
 
 .summary {
   background-color: yellow;
+  width: 70%;
+  float: left;
+}
+
+.my-background {
+  clear: left;
+  padding: 10px 0px;
 }
 
 .my-projects {
