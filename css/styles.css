@@ -10,6 +10,7 @@ body {
 }
 
 .container {
+  color: #191919;
   opacity: 1;
   width: 80%;
   font-size: 19px;
@@ -20,12 +21,27 @@ body {
   height: 70px;
 
 }
+
+span {
+  color: #e06b6b;
+  font-weight: bold;
+}
+
 h1, h2, h3 {
   font-weight: bold;
 }
 
 h1 {
+  color: black;
   font-size: 75px;
+}
+
+h2 {
+  color: #353228;
+}
+
+h3 {
+  color: #3f0c00;
 }
 
 .my-photo {
@@ -34,11 +50,8 @@ h1 {
   padding-left: 20px;
 }
 
-img {
-  text-shadow: 0.5px 0.5px #847b7b;
-}
-
 .summary {
+  color: #302f2d;
   width: 70%;
   float: left;
   padding: 20px 0px 0px 25px;
